@@ -1,5 +1,5 @@
 local gamelist = {
-   [994732206]  = "https://raw.githubusercontent.com/remixoffical/Tz_PC/main/BloxFruit.lua"
+   [122678592501168]  = "https://raw.githubusercontent.com/remixoffical/Tz_PC/refs/heads/main/Beaks.lua"
 }
 local checkgame = gamelist[game.gameId]
 if gamelist[game.gameId] then 
